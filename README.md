@@ -1,5 +1,5 @@
 # Prv_HackPad
-![image](images/6.png)
+![image](images/8.png)
 
 
 ### Bill of Materials
@@ -27,5 +27,6 @@
 ## Firmware
 For firmware I have used QMK and it was not very easy as we can not write firmware of any hardware unless we have it physically anyways, i'm done with this!
 ![image](images/5.png)
+
 
 
